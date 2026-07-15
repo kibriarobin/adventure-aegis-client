@@ -2,8 +2,9 @@
 
 A responsive tourism platform for exploring Southeast Asia — built with the MERN stack and Firebase Authentication.
 
-**🔗 Live Link:** [https://adventure-aegis.web.app/](https://adventure-aegis.web.app/)
-**📂 Category:** Tourist Service
+🔗 **Live Link:** [https://adventure-aegis.web.app/](https://adventure-aegis.web.app/)
+
+📂 **Category:** Tourist Service
 
 <img width="1335" height="596" alt="image" src="https://github.com/user-attachments/assets/582aee99-d7f9-4f11-b373-6cc47dbbef64" />
 
@@ -26,11 +27,11 @@ Adventure-Aegis is a website dedicated to exploring Southeast Asia, providing de
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Database:** MongoDB
-**Authentication:** Firebase Authentication
-**Deployment:** Firebase Hosting
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** Firebase Authentication
+- **Deployment:** Firebase Hosting
 
 ## 📦 Dependencies
 
