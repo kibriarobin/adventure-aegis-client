@@ -80,3 +80,4 @@ The app will be running at `http://localhost:5173`
 
 - **Live Site:** [https://adventure-aegis.web.app/](https://adventure-aegis.web.app/)
 - **Client Repo:** [github.com/kibriarobin/adventure-aegis-client](https://github.com/kibriarobin/adventure-aegis-client)
+- **Server Repo:** [github.com/kibriarobin/adventure-aegis-server](https://github.com/kibriarobin/adventure-aegis-server)
