@@ -2,7 +2,7 @@
 
 A responsive tourism platform for exploring Southeast Asia — built with the MERN stack and Firebase Authentication.
 
-🔗 **Live Link:** [https://adventure-aegis.web.app/](https://adventure-aegis.web.app/)
+🔗 **Live Link:** [adventure-aegis.web.app](https://adventure-aegis.web.app/)
 
 📂 **Category:** Tourist Service
 
